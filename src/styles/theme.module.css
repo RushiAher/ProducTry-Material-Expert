@@ -1,0 +1,10 @@
+.backgroundImg{
+    background: #dcdce6;
+    background-image: url('../assets/Background.png');
+}
+.primary{
+    @apply bg-indigo-500;
+}
+.secondary{
+    color: #ff6a6a;
+}
